@@ -1,0 +1,24 @@
+PDF Converter - Setup Instructions:
+
+1. Install dependencies:
+   npm install
+
+2. Run the development server:
+   npm run dev
+
+3. Open your browser and navigate to http://localhost:3000
+
+4. Use the app:
+   - Select the type of conversion you want to perform (Image to PDF, DOC to PDF, or Text to PDF)
+   - For Image and DOC conversions, click on the file input to select one or more files
+   - For Text to PDF, enter or paste your text into the text area
+   - Click the "Convert to PDF" button
+   - The converted PDF will be downloaded automatically
+
+5. To build for production:
+   npm run build
+
+6. To start the production server:
+   npm run start
+
+Enjoy using your PDF Converter!
