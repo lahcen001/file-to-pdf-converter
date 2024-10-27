@@ -1,5 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.css'
 import { ThemeProvider } from '@/context/ThemeContext'
+import Script from 'next/script'
 
 export const metadata = {
   title: 'PDF Converter',
@@ -16,7 +17,10 @@ export default function RootLayout({
       <ThemeProvider>
         <body>
           {children}
-          <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" />
+          <Script
+            src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+            strategy="afterInteractive"
+          />
         </body>
       </ThemeProvider>
     </html>

@@ -16,7 +16,7 @@ export default function About() {
             <h1 className="card-title text-center mb-4">About Our PDF Converter</h1>
             <p>
               Our PDF Converter is a powerful, easy-to-use tool designed to simplify your document conversion needs. 
-              Whether you're looking to convert images, documents, or text to PDF format, our application has you covered.
+              Whether you&apos;re looking to convert images, documents, or text to PDF format, our application has you covered.
             </p>
             <h2 className="mt-4 mb-3">Our Mission</h2>
             <p>
@@ -45,7 +45,7 @@ export default function About() {
                   Lahcen has years of experience in web development and is committed to providing high-quality, user-friendly tools for everyday tasks.
                 </p>
                 <p>
-                  Lahcen's goal with PDF Converter is to offer a simple yet powerful solution for document conversion needs, 
+                  Lahcen&apos;s goal with PDF Converter is to offer a simple yet powerful solution for document conversion needs, 
                   making it easier for people to work with different file formats in their daily lives.
                 </p>
               </div>
