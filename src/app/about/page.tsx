@@ -45,7 +45,7 @@ export default function About() {
                   Lahcen has years of experience in web development and is committed to providing high-quality, user-friendly tools for everyday tasks.
                 </p>
                 <p>
-                  Lahcen&apos;s goal with PDF Converter is to offer a simple yet powerful solution for document conversion needs, 
+                   my goal with PDF Converter is to offer a simple yet powerful solution for document conversion needs, 
                   making it easier for people to work with different file formats in their daily lives.
                 </p>
               </div>

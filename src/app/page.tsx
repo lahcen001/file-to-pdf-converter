@@ -121,7 +121,7 @@ export default function Home() {
                 <h3 className="card-title">How It Works</h3>
                 <ol>
                   <li>Select your image files</li>
-                  <li>Click the "Convert to PDF" button</li>
+                  <li>Click the Convert to PDF button</li>
                   <li>Wait for the conversion to complete</li>
                   <li>Download your PDF file</li>
                 </ol>
@@ -133,7 +133,7 @@ export default function Home() {
               <div className="card-body">
                 <h3 className="card-title">Supported Formats</h3>
                 <p>Our converter supports a wide range of image formats, including:</p>
-                <p>JPG, JPEG, PNG, GIF, BMP, TIFF, and more!</p>
+                <p>&ldquo;JPG, JPEG, PNG, GIF, BMP, TIFF, and more!&rdquo;</p>
               </div>
             </div>
           </div>
